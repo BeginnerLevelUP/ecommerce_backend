@@ -2,8 +2,8 @@
 # Ecommerce Backend
 
 ## Description
-This is server that can use to make api requests based on a ecommerce database
-[Link To Video](https://drive.google.com/file/d/12UV1xTm7HZgaBWAAq03MqHI61fu2rXOe/view?usp=sharing)
+This is server that can use to make api requests based on a ecommerce database 
+( [Link To Video](https://drive.google.com/file/d/12UV1xTm7HZgaBWAAq03MqHI61fu2rXOe/view?usp=sharing) )
 ## Table of Contents
 - [Ecommerce Backend](#ecommerce-backend)
   - [Description](#description)
